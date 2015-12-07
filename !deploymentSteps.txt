@@ -1,0 +1,24 @@
+Database Import –
+Make sure the MongoDBis up and running
+In command prompt navigate till bin folder where MongoDB is installed
+C:\Program Files\MongoDB\Server\3.0\bin
+
+Kindly restore the database file using following command
+mongorestore -d FashionFactoryProd C:\Db
+
+Note: Db is folder name where database is stored 
+
+Once the Webserver is Started Please use the following link to access Index page
+http://localhost/FashionFactory/index.jsp
+
+The credential for Store Manager is
+Username – storemanager
+Password -  admin 
+The credentials for already created 
+User –
+Username - viyatgandhi@yahoo.com
+Password - 1234
+Seller – 
+Username-  parthshahcs1990@gmail.com
+Password -  1234
+
